@@ -1,0 +1,8 @@
+{
+  "SkuDbConnection": {
+    "host":"rm-uf616sisde04wt1ulyo.mysql.rds.aliyuncs.com",
+    "user": "dxl_sysdata",
+    "password": "dxl@888888",
+    "database": "dxlwagesdb"
+  }
+}
