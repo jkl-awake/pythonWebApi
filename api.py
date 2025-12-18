@@ -12,7 +12,7 @@ def GetNumber():
     result = service.get_number()
     return str(result)
 
-
+# 测试路由
 if __name__ == '__main__':
     app.run(debug=True, host = '192.168.0.45', port = 7002)
 
